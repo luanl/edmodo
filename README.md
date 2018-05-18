@@ -1,1 +1,1 @@
-# http://edmodo.io
+# https://edmodo.io
